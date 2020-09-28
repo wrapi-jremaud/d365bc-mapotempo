@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "AppMain"
+		},
+		{
+			"path": "AppTest"
+		}
+	],
+	"settings": {
+		"al.assemblyProbingPaths": [
+			"./../.netpackages"
+		],
+		"al.codeAnalyzers": [
+			"${AppSourceCop}"
+		]
+	}
+}

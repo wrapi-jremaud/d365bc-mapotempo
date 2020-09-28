@@ -1,0 +1,44 @@
+{
+  "id": "b4ec2083-0258-4611-b578-4824c978f25e",
+  "name": "wra-MapoGeo-Test",
+  "publisher": "wra",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "3baee43f-7b4a-44f4-a04a-e23a95c5c358",
+      "name": "wra-MapoGeo",
+      "publisher": "wra",
+      "version": "1.0.0.0",    
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://App.com/help/",
+  "showMyCode": true,
+  "runtime": "4.0"
+}

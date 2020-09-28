@@ -1,0 +1,6 @@
+AppMain/.alpackages/*.app
+AppMain/*.app
+AppMain/.vscode/*
+AppTest/.alpackages/*.app
+AppTest/*.app
+AppTest/.vscode/*
