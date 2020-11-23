@@ -12,7 +12,9 @@
 			"./../.netpackages"
 		],
 		"al.codeAnalyzers": [
-			"${AppSourceCop}"
+			"${PerTenantExtensionCop}",
+			"${CodeCop}",
+			"${UICop}"
 		]
 	}
 }
